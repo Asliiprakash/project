@@ -53,33 +53,7 @@ const questions = [
             { Text: "TARUN GOGOI", correct: false },
         ]
     },
-    {
-        question: "which state is also known as the 'fruit bowl' of India?",
-        answers: [
-            { Text: "JAMMU & KASHMIR", correct: false },
-            { Text: "HIMACHAL PRADESH", correct: true },
-            { Text: "ASSAM", correct: false },
-            { Text: "MEGHALAYA", correct: false },
-        ]
-    },
-    {
-        question: "Which place in india is also known as the 'land of rishing sun'?",
-        answers: [
-            { Text: "SIKKIM", correct: false },
-            { Text: "KARNATAKA", correct: false },
-            { Text: "ARUNACHAL PRADESH", correct: true },
-            { Text: "GUJRAT", correct: false },
-        ]
-    },
-    {
-        question: "Who discovered india?",
-        answers: [
-            { Text: "VASCO-da-GAMA", correct: true },
-            { Text: "CHRISTOPER COLUMBUS", correct: false },
-            { Text: "JAMES COOK", correct: false },
-            { Text: "WILLEM JANSZOON", correct: false },
-        ]
-    },
+   
 ];
 
 const questionElement = document.getElementById("question");
