@@ -81,7 +81,7 @@ const questions = [
         ]
     },
    {
-        question: "Who is popularly known as the "iron-man" of India ,
+        question: "Who is popularly known as the "ironman" of India" ,
         answers: [
             { Text: "LAL BAHADUR SASTRI", correct: false },
             { Text: "SARDAR VALLABH BHAI PATEL", correct: true },
