@@ -80,16 +80,6 @@ const questions = [
             { Text: "WILLEM JANSZOON", correct: false },
         ]
     },
-   {
-        question: "Who is popularly known as the 'ironman' of India" ,
-        answers: [
-            { Text: "LAL BAHADUR SASTRI", correct: false },
-            { Text: "SARDAR VALLABH BHAI PATEL", correct: true },
-            { Text: "MAHATMA GADHI", correct: false },
-            { Text: "DR. B.R. AMBEDKAR", correct: false },
-        ]
-    },
-
 ];
 
 const questionElement = document.getElementById("question");
