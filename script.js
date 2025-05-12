@@ -2,10 +2,10 @@ const questions = [
     {
         question: "Which is the largest animal in the world?",
         answers: [
-            { Text: "Shark", correct: false },
-            { Text: "Blue Whale", correct: true },
-            { Text: "Elephant", correct: false },
-            { Text: "Giraffe", correct: false },
+            { Text: "SHARK", correct: false },
+            { Text: "BLUE WHALE", correct: true },
+            { Text: "ELEPHANT", correct: false },
+            { Text: "GIRAFFE", correct: false },
         ]
     },
     {
@@ -20,10 +20,10 @@ const questions = [
     {
         question: "Which is the smallest country in the world?",
         answers: [
-            { Text: "India", correct: false },
+            { Text: "INDIA", correct: false },
             { Text: "USA", correct: false },
-            { Text: "Bhutan", correct: true },
-            { Text: "Nepal", correct: false },
+            { Text: "BHUTAN", correct: true },
+            { Text: "NEPAL", correct: false },
         ]
     },
     {
@@ -53,7 +53,42 @@ const questions = [
             { Text: "TARUN GOGOI", correct: false },
         ]
     },
-   
+    {
+        question: "which state is also known as the 'fruit bowl' of India?",
+        answers: [
+            { Text: "JAMMU & KASHMIR", correct: false },
+            { Text: "HIMACHAL PRADESH", correct: true },
+            { Text: "ASSAM", correct: false },
+            { Text: "MEGHALAYA", correct: false },
+        ]
+    },
+    {
+        question: "Which place in india is also known as the 'land of rishing sun'?",
+        answers: [
+            { Text: "SIKKIM", correct: false },
+            { Text: "KARNATAKA", correct: false },
+            { Text: "ARUNACHAL PRADESH", correct: true },
+            { Text: "GUJRAT", correct: false },
+        ]
+    },
+    {
+        question: "Who discovered india?",
+        answers: [
+            { Text: "VASCO-da-GAMA", correct: true },
+            { Text: "CHRISTOPER COLUMBUS", correct: false },
+            { Text: "JAMES COOK", correct: false },
+            { Text: "WILLEM JANSZOON", correct: false },
+        ]
+    },
+   {
+        question: "Who is popularly known as the "iron-man" of India ,
+        answers: [
+            { Text: "LAL BAHADUR SASTRI", correct: false },
+            { Text: "SARDAR VALLABH BHAI PATEL", correct: true },
+            { Text: "MAHATMA GADHI", correct: false },
+            { Text: "DR. B.R. AMBEDKAR", correct: false },
+        ]
+    },
 
 ];
 
