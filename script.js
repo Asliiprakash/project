@@ -38,19 +38,19 @@ const questions = [
     {
         question: "what is the national anthem of india?",
         answers: [
-            { Text: "jana gana", correct: false },
-            { Text: "bande mataram", correct: true },
-            { Text: "oo mur aounar dekh", correct: false },
-            { Text: "none of these", correct: false },
+            { Text: "JANA GANA", correct: true },
+            { Text: "BANDE MATARAM", correct: false },
+            { Text: "OO MUR APUNAR DESH", correct: false },
+            { Text: "DIL DIYA GALLA", correct: false },
         ]
     },
     {
         question: "who is the cheif minister of ASSAM?",
         answers: [
-            { Text: "Narendra modi", correct: false },
-            { Text: "himanta bishwa sarma", correct: true },
-            { Text: "Kejriwal", correct: false },
-            { Text: "tarun gogoi", correct: false },
+            { Text: "NARENDRA MODI", correct: false },
+            { Text: "HIMANTA BISWA SARMAH", correct: true },
+            { Text: "AKHIL GOGOI", correct: false },
+            { Text: "TARUN GOGOI", correct: false },
         ]
     },
    
